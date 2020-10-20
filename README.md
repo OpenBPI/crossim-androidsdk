@@ -1,2 +1,6 @@
 # crossim-androidsdk
- Cross IM android SDK.
+ Cross IM android SDK. 
+
+## Language
+[Chinese](./README_cn.md)
+
