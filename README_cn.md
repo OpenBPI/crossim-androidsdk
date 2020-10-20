@@ -9,7 +9,7 @@ TODO
 ## 配置
 TODO
 ## 文档
-*使用请参见[《跨界云通开发手册V1.3》](https://github.com/OpenBPI/crossim-androidsdk/doc/跨界云通开发手册V1.3.docx)  
+*使用请参见[《跨界云通开发手册V1.3》](https://github.com/OpenBPI/crossim-androidsdk/tree/main/doc/跨界云通开发手册V1.3.docx)  
 ## 更新
 TODO  
 
